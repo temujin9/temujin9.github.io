@@ -24,7 +24,7 @@ github_username:  temujin9
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
