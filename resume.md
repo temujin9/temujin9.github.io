@@ -11,6 +11,9 @@ Nathaniel P. Eliot
 ### Career Objective
 Build enterprise-class architecture for small and medium businesses, using high quality open-source components.
 
+### References
+[Available on my LinkedIn profile](https://www.linkedin.com/in/temujin9/)
+
 ### Relevant Skills
 **General**  
 Over twenty years of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
