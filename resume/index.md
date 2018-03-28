@@ -12,20 +12,23 @@ title: Resume
 Build enterprise-class architecture for small and medium businesses, using high quality open-source components.
 
 ### Relevant Skills
-**General**
+**General**  
 Over twenty years of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
 
-**Software Development**
+**Software Development**  
 Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
 
-**System Administration**
+**System Administration**  
 Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Solid hardware-level understanding of most computer, electronic, and electrical components.
 
 ### Preferred Technologies
-* **Development Languages**: Go, Python, Ruby, Bash, Javascript
-* **Operating System**: Linux (Ubuntu/Debian and Redhat/CentOS families)
-* **Platforms and Applications**: Kubernetes, Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
-* **Hosted Services**: Amazon Web Services, Google Cloud, Heroku, Github
+**Development Languages**: Go, Python, Ruby, Bash, Javascript
+
+**Operating System**: Linux (Ubuntu/Debian and Redhat/CentOS families)
+
+**Platforms and Applications**: Kubernetes, Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
+
+**Hosted Services**: Amazon Web Services, Google Cloud, Heroku, Github
 
 ### Recent Experience
 **The Greenfield Guild**  
