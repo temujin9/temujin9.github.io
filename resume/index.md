@@ -3,8 +3,6 @@ layout: page
 title: Resume
 ---
 
-# Resume
-
 * Nathaniel P. Eliot
 * 1132B Mason Ave, Austin, TX 78721
 * \(512\) 786-8842
