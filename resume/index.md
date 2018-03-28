@@ -3,10 +3,10 @@ layout: page
 title: Resume
 ---
 
-  Nathaniel P. Eliot
-  1132B Mason Ave, Austin, TX 78721
-  \(512\) 786-8842
-  resume@t9productions.com
+    Nathaniel P. Eliot
+    1132B Mason Ave, Austin, TX 78721
+    \(512\) 786-8842
+    resume@t9productions.com
 
 # Career Objective
 Build enterprise-class architecture for small and medium businesses, using high quality open-source components.
