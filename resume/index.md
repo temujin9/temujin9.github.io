@@ -3,10 +3,10 @@ layout: page
 title: Resume
 ---
 
-* Nathaniel P. Eliot
-* 1132B Mason Ave, Austin, TX 78721
-* \(512\) 786-8842
-* resume@t9productions.com
+  Nathaniel P. Eliot
+  1132B Mason Ave, Austin, TX 78721
+  \(512\) 786-8842
+  resume@t9productions.com
 
 # Career Objective
 Build enterprise-class architecture for small and medium businesses, using high quality open-source components.
@@ -61,6 +61,6 @@ Rebuilt external technical support department after lead tech was incapacitated.
 Maintained intranet and internet presence on seven servers, migrating systems to new network configuration during office move. Supported 20+ users, in multiple OS environment, including client rebuilds. Rebuilt software license database and paperwork. Assisted in migration of web-based game from ASP and MS SQL to Perl and MySQL. Maintained extensive webtree, covering 25 domains and subdomains. Replaced outdated file, NAT, and backup servers, and added local DNS and DHCP. Documented existing and new IT processes.
 
 ### T9 Productions
-##### Sole Proprietorship, March 2003 - January 2016
+#### Sole Proprietorship, March 2003 - January 2016
 
 Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others). See my portfolio for further information.
