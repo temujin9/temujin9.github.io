@@ -16,15 +16,15 @@
 title: T9 Productions
 #email: temujin9@t9productions.com
 description: >- # this means to ignore newlines until "baseurl:"
-  T9 Productions is Nathaniel Eliot's personal business.
+  Nathaniel Eliot's personal business.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://t9productions.com"
+url: "http://github.t9productions.com"
 twitter_username: temujin9
 github_username:  temujin9
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
