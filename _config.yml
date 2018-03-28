@@ -24,7 +24,7 @@ github_username:  temujin9
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
