@@ -60,7 +60,7 @@ Rebuilt external technical support department after lead tech was incapacitated.
 
 Maintained intranet and internet presence on seven servers, migrating systems to new network configuration during office move. Supported 20+ users, in multiple OS environment, including client rebuilds. Rebuilt software license database and paperwork. Assisted in migration of web-based game from ASP and MS SQL to Perl and MySQL. Maintained extensive webtree, covering 25 domains and subdomains. Replaced outdated file, NAT, and backup servers, and added local DNS and DHCP. Documented existing and new IT processes.
 
-#### T9 Productions
+**T9 Productions**  
 *Sole Proprietorship*  
 *March 2003 - January 2016*
 
