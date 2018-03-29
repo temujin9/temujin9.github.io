@@ -3,23 +3,30 @@ title: Resume
 permalink: /resume/
 ---
 
-Nathaniel P. Eliot  
-1132B Mason Ave, Austin, TX 78721  
-[+1 512 786 8842](tel:+15127868842)  
-[resume@t9productions.com](mailto:resume@t9productions.com)
+<style>
+blockquote {
+  text-align: center;
+  border: none;
+  padding: 0px;
+}
+</style>
+
+> Nathaniel P. Eliot  
+> 1132B Mason Ave, Austin, TX 78721  
+> [+1 512 786 8842](tel:+15127868842)  
+> [resume@t9productions.com](mailto:resume@t9productions.com)
+>
+> References are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/)
 
 ## Career Objective
 Build enterprise-class architecture for small and medium businesses, using high quality open-source components.
 
 ## Relevant Skills
-* ***General:***
-Over twenty years of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
+* ***General:*** Over twenty years of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
 
-* ***Software Development:***
-Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
+* ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
 
-* ***System Administration:***
-Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Solid hardware-level understanding of most computer, electronic, and electrical components.
+* ***System Administration:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Solid hardware-level understanding of most computer, electronic, and electrical components.
 
 ## Preferred Technologies
 * ***Development Languages***: Go, Python, Ruby, Bash, Javascript
@@ -28,8 +35,6 @@ Server administration and user technical support across all major platforms, in 
 * ***Hosted Services***: Amazon Web Services, Google Cloud, Heroku, Github
 
 ## Recent Experience
-*References are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/)*
-
 ### [The Greenfield Guild](http://greenfieldguild.com)
 ***Founder & CEO, January 2017 - present***
 
@@ -61,6 +66,6 @@ Rebuilt external technical support department after lead tech was incapacitated.
 Maintained intranet and internet presence on seven servers, migrating systems to new network configuration during office move. Supported 20+ users, in multiple OS environment, including client rebuilds. Rebuilt software license database and paperwork. Assisted in migration of web-based game from ASP and MS SQL to Perl and MySQL. Maintained extensive webtree, covering 25 domains and subdomains. Replaced outdated file, NAT, and backup servers, and added local DNS and DHCP. Documented existing and new IT processes.
 
 ### [T9 Productions](http://t9productions.com/)
-***Sole Proprietorship, March 2003 - January 2016***
+***Sole Proprietorship, March 2003 - January 2018***
 
 Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others).
