@@ -1,5 +1,5 @@
 ---
-title: "Brown Shoes" by Theodore Sturgeon
+title: Brown Shoes by Theodore Sturgeon
 permalink: /stories/brown_shoes_by_theodore_sturgeon/
 ---
 
