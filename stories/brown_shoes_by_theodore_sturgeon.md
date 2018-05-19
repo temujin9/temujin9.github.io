@@ -3,6 +3,8 @@ title: Brown Shoes by Theodore Sturgeon
 permalink: /stories/brown_shoes_by_theodore_sturgeon/
 ---
 
+## "Brown Shoes" by Theodore Sturgeon ##
+
 > My late wife introduced me to Theodore Sturgeon. It is high on the list of things I'm deeply grateful to her for.
 
 His name was Mensch; it once was a small joke between them, and then it became a bitterness. "I wish to God I could have you now the way you were," she said, "moaning at night and jumping up and walking around in the dark and never saying why, and letting us go hungry and not caring how we lived or how we looked. I used to hitch at you for it, but I never minded, not really. I held still for it. I would've, just for always, because with it all you did your own thing, you were a free soul."
