@@ -29,14 +29,14 @@ Develop enterprise-class open-source architecture, and help teams adopt and take
 * ***Development Languages***: Go, Python, Ruby, Bash, Javascript
 * ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)
 * ***Clustering System***: Kubernetes, ClusterAPI, Istio, ArgoCD, and other CNCF technologies
-* ***Other***: Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
 * ***Hosted Services***: Amazon Web Services, Google Cloud, Heroku, Github
+* ***Other***: Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
 
 ## Recent Experience
-### [Indeed](http://greenfieldguild.com)
+### [Indeed](http://indeed.com)
 ***Senior Site Reliability Engineer, July 2018 - present***
 
-Built several bare-metal deployment systems for Kubernetes, which replaced a prior Mesos-based system across thousands of nodes worldwide. Pioneered and fostered direct adoption of CNCF technologies (including ClusterAPI on bare metal) company-wide, reducing dependencies on internal bespoke software. Developed SLO alerting with Prometheus & Grafana. Helped the cluster development teams negotiate the SRE on-boarding process.
+Built several generations of bare-metal deployment systems for Kubernetes, which replaced a prior Mesos-based system across thousands of nodes worldwide. Pioneered and fostered direct adoption of CNCF technologies (including ClusterAPI on bare metal) company-wide, reducing dependencies on internal bespoke software. Developed SLO alerting with Prometheus & Grafana. Helped the cluster development teams negotiate the SRE on-boarding process.
 
 ### [The Greenfield Guild](http://greenfieldguild.com)
 ***Founder & CEO, January 2017 - present***
