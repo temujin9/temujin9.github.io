@@ -12,17 +12,16 @@ blockquote {
 </style>
 
 > Nathaniel P. Eliot  
-> 1132B Mason Ave, Austin, TX 78721  
 > [+1 512 786 8842](tel:+15127868842)  
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 >
 > References are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/)
 
 ## Career Objective
-Build enterprise-class architecture for small and medium businesses, using high quality open-source components.
+Develop enterprise-class open-source architecture, and help teams adopt and take advantage of it.
 
 ## Relevant Skills
-* ***General:*** Over twenty years of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
+* ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
 
 * ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
 
@@ -31,14 +30,20 @@ Build enterprise-class architecture for small and medium businesses, using high 
 ## Preferred Technologies
 * ***Development Languages***: Go, Python, Ruby, Bash, Javascript
 * ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)
-* ***Platforms and Applications***: Kubernetes, Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
+* ***Clustering System***: Kubernetes, ClusterAPI, Istio, ArgoCD, and other CNCF technologies
+* ***Other***: Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
 * ***Hosted Services***: Amazon Web Services, Google Cloud, Heroku, Github
 
 ## Recent Experience
+### [Indeed](http://greenfieldguild.com)
+***Senior Site Reliability Engineer, July 2018 - present***
+
+Built several bare-metal deployment systems for Kubernetes, which replaced a prior Mesos-based system across thousands of nodes worldwide. Pioneered and fostered direct adoption of CNCF technologies (including ClusterAPI on bare metal) company-wide, reducing dependencies on internal bespoke software. Developed SLO alerting with Prometheus & Grafana. Helped the cluster development teams negotiate the SRE on-boarding process.
+
 ### [The Greenfield Guild](http://greenfieldguild.com)
 ***Founder & CEO, January 2017 - present***
 
-Developed core architectural experiments in Terraform, Kubernetes, Docker, and main website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
+Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
 ### [Bazaarvoice](https://www.bazaarvoice.com/)
 ***Staff DevOps Engineer, September 2013 - May 2016***
