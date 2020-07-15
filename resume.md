@@ -14,8 +14,6 @@ blockquote {
 > Nathaniel P. Eliot  
 > [+1 512 786 8842](tel:+15127868842)  
 > [resume@t9productions.com](mailto:resume@t9productions.com)
->
-> References are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/)
 
 ## Career Objective
 Develop enterprise-class open-source architecture, and help teams adopt and take advantage of it.
@@ -74,3 +72,6 @@ Maintained intranet and internet presence on seven servers, migrating systems to
 ***Sole Proprietorship, March 2003 - January 2018***
 
 Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others).
+
+## References
+Endorsements and references are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/).
