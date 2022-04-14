@@ -39,7 +39,7 @@ Develop enterprise-class open-source architecture, and help teams adopt and take
 Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system across thousands of nodes worldwide within 18 months, and paved the way for a company-wide lift-and-shift to AWS. Pioneered and fostered direct adoption of open source tooling company-wide, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
 
 ### [The Greenfield Guild](http://greenfieldguild.com)
-***Founder & CEO, January 2017 - present***
+***Founder & CEO, January 2017 - December 2020***
 
 Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
