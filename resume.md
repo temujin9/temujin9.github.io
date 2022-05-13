@@ -36,7 +36,7 @@ Develop enterprise-class open-source architecture, and help teams adopt and take
 ### [Indeed](http://indeed.com)
 ***Senior Site Reliability Engineer, June 2018 - present***
 
-Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system across thousands of nodes worldwide within 18 months, and paved the way for a company-wide lift-and-shift to AWS. Pioneered and fostered direct adoption of open source tooling company-wide, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
+Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system within 18 months, and paved the way for a company-wide lift-and-shift to AWS; these clusters provide roughly 200 kCPUs and 500 TB of memory to over five thousand applications in sixteen datacenters worldwide. Pioneered and fostered direct adoption of open source tooling company-wide, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
 
 ### [The Greenfield Guild](http://greenfieldguild.com)
 ***Founder & CEO, January 2017 - December 2020***
