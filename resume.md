@@ -43,7 +43,7 @@ Diagnosed alert fatigue in the operations team, and organized regular on-call re
 
 Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system within 18 months, and paved the way for a company-wide lift-and-shift to AWS. These clusters provide roughly 200 kCPUs and 500 TB of memory to over five thousand applications in sixteen datacenters worldwide. Pioneered and fostered more direct adoption of CNCF tooling company-wide in coordination with upper management, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
 
-### [The Greenfield Guild](http://greenfieldguild.com)
+### The Greenfield Guild
 ***Founder & CEO, January 2017 - December 2020***
 
 Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
