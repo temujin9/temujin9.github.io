@@ -16,7 +16,7 @@ blockquote {
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 
 ## Career Objective
-Develop enterprise-class open-source architecture, and help teams adopt and take advantage of it.
+Help teams adopt, take advantage of, and develop enterprise-class open-source architecture.
 
 ## Relevant Skills
 * ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
