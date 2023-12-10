@@ -33,10 +33,15 @@ Develop enterprise-class open-source architecture, and help teams adopt and take
 * ***Other***: Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
 
 ## Recent Experience
-### [Indeed](http://indeed.com)
-***Senior Site Reliability Engineer, June 2018 - present***
+### [Auditboard](https://www.auditboard.com/)
+***Staff Software Engineer - DevOps, July 2022 - April 2023***
 
-Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system within 18 months, and paved the way for a company-wide lift-and-shift to AWS; these clusters provide roughly 200 kCPUs and 500 TB of memory to over five thousand applications in sixteen datacenters worldwide. Pioneered and fostered direct adoption of open source tooling company-wide, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
+Diagnosed alert fatigue in the operations team, and organized regular on-call reviews to reduce alert load to more reasonable levels. Developed SLO alerting framework in Datadog and Terraform to further simplify and unify monitoring. Took over core deployment process temporarily, to drive team-wide and company-wide improvements to it, then educated team in new process. Built consensus for and implemented a version deploy policy company-wide, reducing the operational burden of variance. Maintained and advanced underlying Kubernetes architecture across multiple cloud providers (AWS, Azure).
+
+### [Indeed](http://indeed.com)
+***Senior Site Reliability Engineer, June 2018 - July 2022***
+
+Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system within 18 months, and paved the way for a company-wide lift-and-shift to AWS. These clusters provide roughly 200 kCPUs and 500 TB of memory to over five thousand applications in sixteen datacenters worldwide. Pioneered and fostered more direct adoption of CNCF tooling company-wide in coordination with upper management, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
 
 ### [The Greenfield Guild](http://greenfieldguild.com)
 ***Founder & CEO, January 2017 - December 2020***
