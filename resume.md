@@ -19,7 +19,9 @@ blockquote {
 Helping teams adopt, take advantage of, and develop enterprise-class open-source architecture.
 
 ## Relevant Skills
-* ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
+* ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all significant skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
+
+* ***Leadership:*** Focused on soft, goal-driven leadership, experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies.
 
 * ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
 
@@ -53,6 +55,11 @@ Built several generations of deployment systems for Kubernetes, which replaced a
 
 Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
+### [T9 Productions](http://t9productions.com/)
+***Sole Proprietorship, March 2003 - January 2018***
+
+Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others).
+
 ### [Bazaarvoice](https://www.bazaarvoice.com/)
 ***Staff DevOps Engineer, September 2013 - May 2016***
 
@@ -67,21 +74,6 @@ Core developer on the cluster orchestration suite Ironfan through two major rele
 ***Contract System Administrator II, June 2010 - December 2010***
 
 Standardized Linux architecture for Perforce installation, including many custom Perl and BASH scripts, and geographically dispersed proxies. Wrote BASH instrumentation for a heavily threaded C++ program and Perl testing script, for the Windows to Linux migration of a 5TB Perforce installation; developed Python solution to recover over fifty thousand revisions rendered inaccessible due to naming issues. Provided Tier 3 support, including on-call, for many applications including Agile, Confluence, Oracle SSO, Subversion, and more. Developed and debugged across many architectures, including Weblogic, Oracle Application Server, and Tomcat on Redhat, Solaris, and Windows servers. Organized hardware architecture estimates for SDL Trisoft DITA, saving roughly $75,000 in up-front hardware costs by tapping existing internal VMWare cloud. Served as internal Linux SME on several disparate projects, both inside and outside the team.
-
-### [Roxor Games](https://www.linkedin.com/company/roxor-games/)
-***Technical Support/System Administrator, November 2005 - September 2006***
-
-Rebuilt external technical support department after lead tech was incapacitated. Assembled test fixtures and scripts for Linux-based video game cabinets. Wrote policy for clearer and more efficient Warranty and Advanced Replacement programs. Trained replacement tech up from basic computer competence. Implemented web support and management system in Salesforce, and trained internal users. Assisted in design testing for new product configurations, and debugging Linux related C++ compilation problems. Built Bacula backups backups for large (500+ GB) backup footprint. Supported 20+ users, in a multi-OS environment, including client rebuilds. Maintained intranet presence on five servers, and internet presence through a variety of hosted applications.
-
-### [Steve Jackson Games](http://www.sjgames.com/)
-***System Administrator/Webmaster, November 2004 - January 2006***
-
-Maintained intranet and internet presence on seven servers, migrating systems to new network configuration during office move. Supported 20+ users, in multiple OS environment, including client rebuilds. Rebuilt software license database and paperwork. Assisted in migration of web-based game from ASP and MS SQL to Perl and MySQL. Maintained extensive webtree, covering 25 domains and subdomains. Replaced outdated file, NAT, and backup servers, and added local DNS and DHCP. Documented existing and new IT processes.
-
-### [T9 Productions](http://t9productions.com/)
-***Sole Proprietorship, March 2003 - January 2018***
-
-Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others).
 
 ## References
 Endorsements and references are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/).
