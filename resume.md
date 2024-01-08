@@ -21,7 +21,7 @@ Helping teams adopt, take advantage of, and develop enterprise-class open-source
 ## Relevant Skills
 * ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all significant skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
 
-* ***Leadership:*** Focused on soft, goal-driven leadership, experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies.
+* ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies.
 
 * ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
 
