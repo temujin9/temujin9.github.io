@@ -16,7 +16,7 @@ blockquote {
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 
 ## Career Objective
-Help teams adopt, take advantage of, and develop enterprise-class open-source architecture.
+Helping teams adopt, take advantage of, and develop enterprise-class open-source architecture.
 
 ## Relevant Skills
 * ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all computer skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
@@ -33,6 +33,11 @@ Help teams adopt, take advantage of, and develop enterprise-class open-source ar
 * ***Other***: Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
 
 ## Recent Experience
+### [Robert Gardner Wellness](https://www.robertgardnerwellness.com/)
+***Strategic Advisor, 2009 - present***
+
+Worked with Robert to transform his education business from in-person to a multifaceted online model, greatly expanding his reach and more than doubling his yearly income. Advised him on various personnel decisions, including technical direction for online product development via contractors. Pushed for and invested in an advertising model which increased a core digital revenue stream (paid subscribers) by 42% in its first quarter, with similar growth projected for 2024.
+
 ### [Auditboard](https://www.auditboard.com/)
 ***Staff Software Engineer - DevOps, July 2022 - April 2023***
 
