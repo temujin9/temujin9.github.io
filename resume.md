@@ -16,7 +16,7 @@ blockquote {
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 
 ## Career Objective
-Helping teams adopt, take advantage of, and develop enterprise-class open-source architecture.
+I help companies adopt, take advantage of, and develop enterprise-class software.
 
 ## Relevant Skills
 * ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all significant skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
@@ -68,7 +68,7 @@ Maintained and developed on the core infrastructure (Cassandra, Elasticsearch, a
 ### [Infochimps](http://www.infochimps.com/)
 ***Senior Operations Engineer, May 2011 - June 2013***
 
-Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployments. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
+Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
 
 ### [National Instruments](http://www.ni.com/)
 ***Contract System Administrator II, June 2010 - December 2010***
