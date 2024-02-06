@@ -41,7 +41,7 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 Worked with Robert to transform his education business from in-person to a multifaceted online model, greatly expanding his reach and more than doubling his yearly income. Advised him on various personnel decisions, including technical direction for online product development via contractors. Pushed for and invested in an advertising model which increased a core digital revenue stream (paid subscribers) by 42% in its first quarter, with similar growth projected for 2024.
 
 ### [Auditboard](https://www.auditboard.com/)
-***Staff Software Engineer, Devops, July 2022 - April 2023***
+***Staff Software Engineer, July 2022 - April 2023***
 
 Diagnosed alert fatigue in the operations team, and organized regular on-call reviews to reduce alert load to more reasonable levels. Developed SLO alerting framework in Datadog and Terraform to further simplify and unify monitoring. Took over core deployment process temporarily, to drive team-wide and company-wide improvements to it, then educated team in new process. Built consensus for and implemented a version deploy policy company-wide, reducing the operational burden of variance. Maintained and advanced underlying Kubernetes architecture across multiple cloud providers (AWS, Azure).
 
