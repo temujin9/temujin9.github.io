@@ -41,7 +41,7 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 Worked with Robert to transform his education business from in-person to a multifaceted online model, greatly expanding his reach and more than doubling his yearly income. Advised him on various personnel decisions, including technical direction for online product development via contractors. Pushed for and invested in an advertising model which increased a core digital revenue stream (paid subscribers) by 42% in its first quarter, with similar growth projected for 2024.
 
 ### [Auditboard](https://www.auditboard.com/)
-***Staff Software Engineer - DevOps, July 2022 - April 2023***
+***Staff Software Engineer, Devops, July 2022 - April 2023***
 
 Diagnosed alert fatigue in the operations team, and organized regular on-call reviews to reduce alert load to more reasonable levels. Developed SLO alerting framework in Datadog and Terraform to further simplify and unify monitoring. Took over core deployment process temporarily, to drive team-wide and company-wide improvements to it, then educated team in new process. Built consensus for and implemented a version deploy policy company-wide, reducing the operational burden of variance. Maintained and advanced underlying Kubernetes architecture across multiple cloud providers (AWS, Azure).
 
@@ -71,4 +71,4 @@ Maintained and developed on the core infrastructure (Cassandra, Elasticsearch, a
 Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
 
 ## References
-Endorsements and references are available at [https://www.linkedin.com/in/temujin9/](https://www.linkedin.com/in/temujin9/).
+Endorsements and references are [available on LinkedIn](https://www.linkedin.com/in/temujin9/details/recommendations/).
