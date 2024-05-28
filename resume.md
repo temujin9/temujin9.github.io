@@ -65,10 +65,12 @@ Maintained and developed on the core infrastructure (Cassandra, Elasticsearch, a
 
 Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
 
+<!--
 ### [Robert Gardner Wellness](https://www.robertgardnerwellness.com/)
 ***Strategic Advisor, 2009 - present***
 
 Worked with Robert to transform his education business from in-person to a multifaceted online model, greatly expanding his reach and more than doubling his yearly income. Advised him on various personnel decisions, including technical direction for online product development via contractors. Pushed for and invested in an advertising model which increased a core digital revenue stream (paid subscribers) by 42% in its first quarter, with similar growth projected for 2024.
+-->
 
 ## References
 Endorsements and references are [available on LinkedIn](https://www.linkedin.com/in/temujin9/details/recommendations/).
