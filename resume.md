@@ -51,7 +51,7 @@ Built several generations of deployment systems for Kubernetes, which replaced a
 Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
 ### [T9 Productions](http://t9productions.com/)
-***Sole Proprietorship, March 2003 - January 2018***
+***Sole Proprietor, March 2003 - January 2018***
 
 Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others).
 
