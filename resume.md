@@ -19,46 +19,44 @@ blockquote {
 I help companies adopt, take advantage of, and develop enterprise-class software.
 
 ## Relevant Skills
-* ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all significant skills. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
-
-* ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies.
+* ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies. Experienced working with distributed, remote-first teams in multiple timezones. Solid writing and copy-editing skills, including technical and policy writing.
 
 * ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration. Heavy emphasis on test-driven design and other agile development practices.
 
-* ***System Administration:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Heavy emphasis on repeatable infrastructure and other agile architecture practices.
+* ***System Administration:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Heavy emphasis on repeatable infrastructure and other agile architecture practices. Strong preferences for low cost, open source, and inter-operable solutions.
 
 ## Preferred Technologies
 * ***Development Languages***: Go, Python, Ruby, Bash, Javascript
 * ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)
-* ***Clustering System***: Kubernetes, ClusterAPI, Istio, ArgoCD, and other CNCF technologies
+* ***Clustering System***: Kubernetes, Helm, ClusterAPI, Istio, ArgoCD, and other CNCF technologies
 * ***Hosted Services***: Amazon Web Services, Google Cloud, Heroku, Github
 * ***Other***: Terraform, Docker, Git, Jenkins, Elasticsearch, PostgreSQL, NodeJS
 
 ## Recent Experience
 ### [T9 Productions](http://t9productions.com/)
-***Consulting, March 2003 - January 2018, September 2023 - current***
+***Consulting, September 2023 - current, March 2003 - January 2018***
 
-Contract work in web development and system administration for clients across a broad range of domains. Recent highlights include rebuilding a pre-funding startup's architecture and developer pipeline in Kubernetes to modernize and save costs, and long-term development of an online education business including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for web, virtualization, developer tools, and email architecture.
+Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for web, virtualization, developer tools, and email architecture.
 
 ### Sabbatical
 ***April 2023 - April 2024***
 
-Took a year off, to recognize and reward a quarter century of work.
+Took a year off to recognize and reward a quarter century of solid work.
 
 ### [Auditboard](https://www.auditboard.com/)
 ***Staff Software Engineer, July 2022 - April 2023***
 
-Diagnosed alert fatigue in the operations team, and organized regular on-call reviews to reduce alert load to more reasonable levels. Developed SLO alerting framework in Datadog and Terraform to further simplify and unify monitoring. Took over core deployment process temporarily, to drive team-wide and company-wide improvements to it, then educated team in new process. Built consensus for and implemented a version deploy policy company-wide, reducing the operational burden of variance. Maintained and advanced underlying Kubernetes architecture across multiple cloud providers (AWS, Azure).
+Diagnosed alert fatigue in the operations team, and organized regular on-call reviews to reduce alert load to more reasonable levels. Developed and trained team on SLO alerting framework in Datadog and Terraform to further simplify and unify monitoring. Took over core deployment process temporarily, to drive team-wide and company-wide improvements to it, then educated team in new process. Recognized the need for, built consensus for, and implemented a version deploy policy company-wide, reducing the operational burden of variance. Maintained and advanced underlying Kubernetes architecture across multiple cloud providers (AWS, Azure).
 
 ### [Indeed](http://indeed.com)
 ***Senior Site Reliability Engineer, June 2018 - July 2022***
 
-Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system within 18 months, and paved the way for a company-wide lift-and-shift to AWS. These clusters provide roughly 200 kCPUs and 500 TB of memory to over five thousand applications in sixteen datacenters worldwide. Pioneered and fostered more direct adoption of CNCF tooling company-wide in coordination with upper management, reducing dependencies on internal bespoke software. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
+Built several generations of deployment systems for Kubernetes, which replaced a prior Mesos-based system within 18 months, and paved the way for a company-wide lift-and-shift to AWS. These clusters provide roughly 200 kCPUs and 500 TB of memory to over five thousand applications in sixteen datacenters worldwide. Successfully lobbied upper management to adopt the CNCF ecosystem more broadly, which removed costly-to-maintain dependencies and provided many novel capabilities to developers. Supported infrastructure development efforts across five client teams, providing valuable operational direction and oversight. Developed SLO alerting in Prometheus, Grafana, and Datadog, which reduced alert fatigue dramatically for those client teams and and their supporting SRE-on-call rotations.
 
-### The Greenfield Guild
+### [The Greenfield Guild](https://www.linkedin.com/company/the-greenfield-guild/)
 ***Founder & CEO, January 2017 - December 2020***
 
-Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
+Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Recruited, interviewed, hired, and managed a half-dozen employees and freelancers. Developed core architectural experiments in Terraform, Kubernetes, Docker, and Wordpress. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
 ### [Bazaarvoice](https://www.bazaarvoice.com/)
 ***Staff DevOps Engineer, September 2013 - May 2016***
