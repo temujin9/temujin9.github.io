@@ -19,22 +19,32 @@ blockquote {
 I help companies adopt, take advantage of, and develop enterprise-class software.
 
 ## Relevant Skills
-* ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all significant skills. Heavy emphasis on test-driven design, repeatable infrastructure, and other agile development and architecture practices. Experienced at debugging, both personal code and existing systems. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
+* ***General:*** Decades of professional experience in information technology. Comfortable with many positions, from project manager to sole developer. Quick study and capable researcher, self-trained in all significant skills. Strong preferences for low cost, open source, and inter-operable solutions. Solid writing and copy-editing skills, including technical and policy writing.
 
 * ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies.
 
-* ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration.
+* ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration. Heavy emphasis on test-driven design and other agile development practices.
 
-* ***System Administration:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Solid hardware-level understanding of most computer, electronic, and electrical components.
+* ***System Administration:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Heavy emphasis on repeatable infrastructure and other agile architecture practices.
 
 ## Preferred Technologies
 * ***Development Languages***: Go, Python, Ruby, Bash, Javascript
 * ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)
 * ***Clustering System***: Kubernetes, ClusterAPI, Istio, ArgoCD, and other CNCF technologies
 * ***Hosted Services***: Amazon Web Services, Google Cloud, Heroku, Github
-* ***Other***: Terraform, Docker, Git, Jenkins, Hadoop, MongoDB, CouchDB, Elasticsearch, PostgreSQL, EventMachine, NodeJS
+* ***Other***: Terraform, Docker, Git, Jenkins, Elasticsearch, PostgreSQL, NodeJS
 
 ## Recent Experience
+### [T9 Productions](http://t9productions.com/)
+***Consulting, March 2003 - January 2018, September 2023 - current***
+
+Contract work in web development and system administration for clients across a broad range of domains. Recent highlights include rebuilding a pre-funding startup's architecture and developer pipeline in Kubernetes to modernize and save costs, and long-term development of an online education business including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for web, virtualization, developer tools, and email architecture.
+
+### Sabbatical
+***April 2023 - April 2024***
+
+Took a year off, to recognize and reward a quarter century of work.
+
 ### [Auditboard](https://www.auditboard.com/)
 ***Staff Software Engineer, July 2022 - April 2023***
 
@@ -50,11 +60,6 @@ Built several generations of deployment systems for Kubernetes, which replaced a
 
 Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Developed core architectural experiments in Terraform, Kubernetes, Docker. Maintained core website in Wordpress. Recruited for, interviewed, and hired employees and freelancers for a variety of roles. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
-### [T9 Productions](http://t9productions.com/)
-***Sole Proprietor, March 2003 - January 2018***
-
-Contract work in web development and system administration for various clients, across a broad range of domains; personal internet presence for email, remote testing, and personal projects and experimentation. Software development focused primarily on PHP and Python in LAMP environment (including Drupal/Ubercart), with sidelines into Plone/Zope and other architectures. System administration focused primarily on LAMP system installation and optimization, with sidelines in virtualization (Xen, LVM), developer tools (SVN, Git), and email (Sendmail, Spamassassin, and others).
-
 ### [Bazaarvoice](https://www.bazaarvoice.com/)
 ***Staff DevOps Engineer, September 2013 - May 2016***
 
@@ -64,13 +69,6 @@ Maintained and developed on the core infrastructure (Cassandra, Elasticsearch, a
 ***Senior Operations Engineer, May 2011 - June 2013***
 
 Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
-
-<!--
-### [Robert Gardner Wellness](https://www.robertgardnerwellness.com/)
-***Strategic Advisor, 2009 - present***
-
-Worked with Robert to transform his education business from in-person to a multifaceted online model, greatly expanding his reach and more than doubling his yearly income. Advised him on various personnel decisions, including technical direction for online product development via contractors. Pushed for and invested in an advertising model which increased a core digital revenue stream (paid subscribers) by 42% in its first quarter, with similar growth projected for 2024.
--->
 
 ## References
 Endorsements and references are [available on LinkedIn](https://www.linkedin.com/in/temujin9/details/recommendations/).
