@@ -23,7 +23,7 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 
 * ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration. Heavy emphasis on test-driven design and other agile development practices.
 
-* ***System Administration:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Heavy emphasis on repeatable infrastructure and other agile architecture practices. Strong preferences for low cost, open source, and inter-operable solutions.
+* ***Reliability Engineering:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Strong focus on SLOs and other SRE / observability practices, including educating other teams in their adoption. Heavy emphasis on repeatable infrastructure and other agile architecture practices. Strong preferences for low cost, open source, and inter-operable solutions.
 
 ## Preferred Technologies
 * ***Development Languages***: Go, Python, Ruby, Bash, Javascript
