@@ -36,7 +36,7 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 ### [T9 Productions](http://t9productions.com/)
 ***Consultant, March 2003 - current***
 
-Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for web, virtualization, developer tools, and email architecture.
+Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for email, virtualization, developer tools, and web architecture.
 
 ### Sabbatical
 ***April 2023 - April 2024***
