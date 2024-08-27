@@ -38,11 +38,6 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 
 Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for email, virtualization, developer tools, and web architecture.
 
-### Sabbatical
-***April 2023 - April 2024***
-
-Took a year off to recognize and reward a quarter century of solid work.
-
 ### [Auditboard](https://www.auditboard.com/)
 ***Staff Software Engineer, July 2022 - April 2023***
 
