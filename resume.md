@@ -33,11 +33,6 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 * ***Other***: Terraform, Docker, Git, Jenkins, Elasticsearch, PostgreSQL, NodeJS
 
 ## Recent Experience
-### [T9 Productions](http://t9productions.com/)
-***Consultant, March 2003 - current***
-
-Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Prior work included software development for the web in a variety of languages, and system administration for email, virtualization, developer tools, and web architecture.
-
 ### [Auditboard](https://www.auditboard.com/)
 ***Staff Software Engineer, July 2022 - April 2023***
 
@@ -62,6 +57,11 @@ Maintained and developed on the core infrastructure (Cassandra, Elasticsearch, a
 ***Senior Operations Engineer, May 2011 - June 2013***
 
 Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
+
+### [T9 Productions](http://t9productions.com/)
+***Consultant, March 2003 - current***
+
+Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Previous work included software development for the web in a variety of languages, and system administration for email, virtualization, developer tools, and web architecture.
 
 ## References
 Endorsements and references are [available on LinkedIn](https://www.linkedin.com/in/temujin9/details/recommendations/).
