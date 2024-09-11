@@ -11,7 +11,7 @@ blockquote {
 }
 </style>
 
-> Nathaniel P. Eliot  
+> Nathaniel Eliot  
 > [+1 512 786 8842](tel:+15127868842)  
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 
