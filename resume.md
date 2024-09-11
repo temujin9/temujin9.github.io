@@ -9,6 +9,10 @@ blockquote {
   border: none;
   padding: 0px;
 }
+
+aside, header {
+  display: none;
+}
 </style>
 
 > Nathaniel Eliot  
