@@ -50,7 +50,7 @@ Built several generations of deployment systems for Kubernetes, which replaced a
 ### [The Greenfield Guild](https://www.linkedin.com/company/the-greenfield-guild/)
 ***Founder & CEO, January 2017 - December 2020***
 
-Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Recruited, interviewed, hired, and managed a half-dozen employees and freelancers. Developed core architectural experiments in Terraform, Kubernetes, Docker, and Wordpress. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
+Founded the consulting firm to respond to a gap in available cloud and Agile expertise in small and medium businesses. Recruited, interviewed, hired, and managed a half-dozen employees and freelancers. Developed core architectural experiments in Terraform, Kubernetes, Docker, and Wordpress. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
 ### [Bazaarvoice](https://www.bazaarvoice.com/)
 ***Staff DevOps Engineer, September 2013 - May 2016***
