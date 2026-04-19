@@ -20,7 +20,7 @@ aside, header {
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 
 ## Career Objective
-I build and operate the platforms other engineers depend on, with deep roots in Kubernetes, SRE, and the CNCF ecosystem.
+I build and operate the platforms other engineers depend on, with deep roots in SRE and the Kubernetes/CNCF ecosystem.
 
 ## Relevant Skills
 * ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies. Experienced working with distributed, remote-first teams in multiple timezones. Solid writing and copy-editing skills, including technical and policy writing.
