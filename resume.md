@@ -20,7 +20,7 @@ aside, header {
 > [resume@t9productions.com](mailto:resume@t9productions.com)
 
 ## Career Objective
-I help companies adopt, take advantage of, and develop enterprise-class software.
+I build and operate the platforms other engineers depend on, with deep roots in Kubernetes, SRE, and the CNCF ecosystem.
 
 ## Relevant Skills
 * ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies. Experienced working with distributed, remote-first teams in multiple timezones. Solid writing and copy-editing skills, including technical and policy writing.
@@ -30,13 +30,19 @@ I help companies adopt, take advantage of, and develop enterprise-class software
 * ***Reliability Engineering:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Strong focus on SLOs and other SRE / observability practices, including educating other teams in their adoption. Heavy emphasis on repeatable infrastructure and other agile architecture practices. Strong preferences for low cost, open source, and inter-operable solutions.
 
 ## Preferred Technologies
-* ***Development Languages***: Go, Python, Ruby, Bash, Javascript
+* ***Development Languages***: Go, Python, Rust, Ruby, Bash, Javascript
 * ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)
 * ***Clustering System***: Kubernetes, Helm, ClusterAPI, Istio, ArgoCD, and other CNCF technologies
-* ***Hosted Services***: Amazon Web Services, Google Cloud, Heroku, Github
-* ***Other***: Terraform, Docker, Git, Jenkins, Elasticsearch, PostgreSQL, NodeJS
+* ***Hosted Services***: Amazon Web Services, Google Cloud, Azure, Github
+* ***Observability***: Prometheus, Grafana, Datadog, PagerDuty
+* ***Other***: Terraform, Docker, Git, Vault, Jenkins, Elasticsearch, PostgreSQL, NodeJS
 
 ## Recent Experience
+### [InfluxData](https://www.influxdata.com/)
+***Senior Site Reliability Engineer, December 2024 - April 2026***
+
+Stepped up as team lead after sudden departure of previous leadership. Upgraded Vault LTS, Istio, and Kubernetes across all eighteen clusters of our multi-cloud environment. Rebuilt the Alertmanager pipeline to consolidate Slack, PagerDuty, and runbook routing, reducing alert fatigue and standardizing team-level severity handling. Drove a large-scale customer data recovery effort (fifteen phases, ~5,000 worker-hours) and landed the supporting engine fixes in the core platform. Built an OIDC/PKCE authentication pipeline enabling safe per-cluster observability access for AI agents, meaningfully improving incident diagnosis and architectural guidance.
+
 ### [Auditboard](https://www.auditboard.com/)
 ***Staff Software Engineer, July 2022 - April 2023***
 
@@ -60,12 +66,12 @@ Maintained and developed on the core infrastructure (Cassandra, Elasticsearch, a
 ### [Infochimps](http://www.infochimps.com/)
 ***Senior Operations Engineer, May 2011 - June 2013***
 
-Core developer on the cluster orchestration suite Ironfan through two major releases, including adding support for multiple cloud providers. Supported eight developers in system deployment and incident responses. Standardized all internal cloud servers (85+ across 5+ active clients) to common deployment stack, including regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote lightweight AAA (authentication, authorization, and accounting) server for our metered data offering (now discontinued). Continually reduced overall system expenses, by guiding developer usage, cleaning up data stores, and suggesting products for discontinuation. Organized and interacted regularly with Ironfan open source community, including presence via email, issue tracking, social media, and occasional speaking engagements (both in person, and via web-cast). Ran our internal role-playing game.
+Core developer on the cluster orchestration suite Ironfan across two major releases, including multi-cloud provider support. Supported eight developers through deployment and incident response. Standardized 85+ internal cloud servers across five active clients onto a common deployment stack with regular redeployment. Championed and built continuous integration (CI) for full-stack deployments. Wrote a lightweight AAA server for the metered data offering. Led Ironfan open-source community engagement: email, issue tracking, social media, and in-person and webcast talks. Continuously reduced infrastructure spend through usage guidance and data-store cleanup.
 
 ### [T9 Productions](http://t9productions.com/)
 ***Consultant, March 2003 - current***
 
-Contract work in web development and system administration for clients across a broad range of domains. Rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tools, to modernize and save costs. Provided long-term business development guidance to an online education business, including a recent advertising push resulting in a 42% growth in subscribers. Previous work included software development for the web in a variety of languages, and system administration for email, virtualization, developer tools, and web architecture.
+Long-running independent consultancy on system architecture and developer infrastructure. Recent engagement: rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tooling, reducing cost and unblocking deployments. Earlier work spans system administration (email, virtualization, developer tools, web infrastructure) and full-stack web development in a variety of languages.
 
 ## References
 Endorsements and references are [available on LinkedIn](https://www.linkedin.com/in/temujin9/details/recommendations/).
