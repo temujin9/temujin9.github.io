@@ -39,7 +39,7 @@ I build and operate the platforms other engineers depend on, with deep roots in 
 
 ## Recent Experience
 ### [InfluxData](https://www.influxdata.com/)
-***Senior Site Reliability Engineer, December 2024 - April 2026***
+***Senior Software Reliability Engineer, December 2024 - April 2026***
 
 Stepped up as team lead after sudden departure of previous leadership. Upgraded Vault LTS, Istio, and Kubernetes across all eighteen clusters of our multi-cloud environment. Rebuilt the Alertmanager pipeline to consolidate Slack, PagerDuty, and runbook routing, reducing alert fatigue and standardizing team-level severity handling. Drove a large-scale customer data recovery effort (fifteen phases, ~5,000 worker-hours) and landed the supporting engine fixes in the core platform. Built an OIDC/PKCE authentication pipeline enabling safe per-cluster observability access for AI agents, meaningfully improving incident diagnosis and architectural guidance.
 
