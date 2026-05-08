@@ -23,15 +23,6 @@ aside, header {
 ## Career Objective
 I help build the platforms other engineers depend on, with deep roots in SRE and the Kubernetes/CNCF ecosystem. I'm looking to support and lead pragmatic innovation in this novel technical era, at an organization with enterprise-class infrastructure or the desire to build it.
 
-## Preferred Technologies
-***Agentic Development***: Claude Code, Letta Code, OpenCode  
-***Development Languages***: Go, Python, Rust, Ruby, Bash, Javascript  
-***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)  
-***Clustering System***: Kubernetes, Helm, ClusterAPI, Istio, Argo, Vault, & other CNCF technologies  
-***Hosted Services***: AWS, Google Cloud, Azure, Github  
-***Observability***: Prometheus, Grafana, Loki, Alertmanager, Datadog, PagerDuty  
-***Other***: Terraform, Docker, Git, Elasticsearch, PostgreSQL, NodeJS
-
 ## Recent Experience
 ### [InfluxData](https://www.influxdata.com/)
 ***Senior Software Reliability Engineer, December 2024 - April 2026***  
@@ -74,6 +65,15 @@ Core developer on the cluster orchestration suite Ironfan across two major relea
 _Kubernetes, Flux, cert-manager, Helm, AWS, Azure, Terraform, Docker, MySQL_
 
 Long-running independent consultancy on system architecture and developer infrastructure. Recent engagement: rebuilt a pre-funding startup's architecture and developer pipeline with Kubernetes and CNCF tooling, reducing cost and unblocking deployments. Earlier work spans system administration (email, virtualization, developer tools, web infrastructure) and full-stack web development in a variety of languages.
+
+## Preferred Technologies
+***Clustering System***: Kubernetes, Helm, ClusterAPI, Istio, Argo, Vault, & other CNCF technologies  
+***Agentic Development***: Claude Code, Letta Code, OpenCode  
+***Development Languages***: Go, Python, Rust, Ruby, Bash, Javascript  
+***Hosted Services***: AWS, Google Cloud, Azure, Github  
+***Observability***: Prometheus, Grafana, Loki, Alertmanager, Datadog, PagerDuty  
+***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)  
+***Other***: Terraform, Docker, Git, Elasticsearch, PostgreSQL, NodeJS
 
 ## Relevant Skills
 ***Leadership:*** Focused on soft, goal-driven leadership. Experienced with leading both from the ranks and from positions of authority. Good at identifying and nurturing talent in fellow professionals. Comfortable with building consensus across diverse business functions. Familiar with a variety of business failure modes and potential remedies. Experienced working with distributed, remote-first teams in multiple timezones. Solid writing and copy-editing skills, including technical and policy writing.
