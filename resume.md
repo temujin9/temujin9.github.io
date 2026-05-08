@@ -24,7 +24,7 @@ aside, header {
 I help build the platforms other engineers depend on, with deep roots in SRE and the Kubernetes/CNCF ecosystem. I'm looking to support and lead pragmatic innovation in this novel technical era, at an organization with enterprise-class infrastructure or the desire to build it.
 
 ## Preferred Technologies
-***Agentic Framework***: Claude Code, Letta Code, Open Code  
+***Agentic Development***: Claude Code, Letta Code, OpenCode  
 ***Development Languages***: Go, Python, Rust, Ruby, Bash, Javascript  
 ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)  
 ***Clustering System***: Kubernetes, Helm, ClusterAPI, Istio, Argo, Vault, & other CNCF technologies  
