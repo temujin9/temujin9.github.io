@@ -1,1 +1,3 @@
 @import url("/assets/css/style.css");
+
+.inner { width: auto; margin: 0; padding-left: 2em; }
