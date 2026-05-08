@@ -35,7 +35,7 @@ I help build the platforms other engineers depend on, with deep roots in SRE and
 ## Recent Experience
 ### [InfluxData](https://www.influxdata.com/)
 ***Senior Software Reliability Engineer, December 2024 - April 2026***  
-_Kubernetes, Vault, Istio, Argo, Prometheus, Grafana, AWS, GCP, Azure, Claude Code, Terraform, PagerDuty_
+_Kubernetes, Vault, Istio, Argo, Prometheus, Grafana, AWS, GCP, Azure, Claude Code, Terraform_
 
 Stepped up as team lead after sudden departure of previous leadership. Upgraded Argo, Vault, Istio, and Kubernetes across all eighteen clusters of our multi-cloud environment. Rebuilt the Alertmanager pipeline to consolidate Slack, PagerDuty, and runbook routing, reducing alert fatigue and standardizing team-level severity handling. Drove a large-scale customer data recovery effort (fifteen phases, ~5,000 worker-hours) and landed the supporting engine fixes in the core platform. Built an OIDC/PKCE authentication pipeline enabling safe per-cluster observability access for AI agents, meaningfully improving incident diagnosis and architectural guidance.
 
@@ -53,7 +53,7 @@ Built several generations of deployment systems for Kubernetes, which replaced a
 
 ### [The Greenfield Guild](https://www.linkedin.com/company/the-greenfield-guild/)
 ***Founder & CEO, January 2017 - December 2020***  
-_Kubernetes, Helm, cert-manager, Velero, AWS, Google Cloud, Terraform, Docker, Cassandra, WordPress_
+_Kubernetes, Helm, cert-manager, Velero, AWS, Google Cloud, Terraform, Docker, Cassandra_
 
 Founded The Greenfield Guild to respond to a gap in available cloud and Agile expertise in small and medium businesses. Recruited, interviewed, hired, and managed a half-dozen employees and freelancers. Developed core architectural experiments in Terraform, Kubernetes, Docker, and Wordpress. Composed job proposals for a variety of clients, from early stage startups to large government entities. Attended conferences and networked with software vendors to provide early pipeline for the sales team. Increased firm's visibility through a variety of means, including speaking opportunities and social media engagement.
 
