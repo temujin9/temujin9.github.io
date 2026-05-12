@@ -1,7 +1,4 @@
 @import url("/assets/css/style.css");
 
 .inner { width: auto; margin: 0; padding-left: 2em; }
-
-h2 { break-after: avoid; page-break-after: avoid; }
-p, blockquote { break-inside: avoid; page-break-inside: avoid; orphans: 3; widows: 3; }
-.entry { break-inside: avoid; page-break-inside: avoid; }
+.section { break-inside: avoid; }
