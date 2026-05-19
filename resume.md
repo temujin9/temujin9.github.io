@@ -22,18 +22,19 @@ aside, header {
 
 <div markdown="1" class="section">
 ## Career Objective
-I help build the platforms other engineers depend on, with deep roots in SRE and the Kubernetes/CNCF ecosystem. I'm looking to support and lead pragmatic innovation in this novel technical era, at an organization with enterprise-class infrastructure or the desire to build it.
+I help build the platforms other engineers depend on, with deep roots in Site Reliability Engineering, Platform Engineering, and the Kubernetes/CNCF ecosystem. I'm looking to support and lead pragmatic innovation in this novel technical era, at an organization with enterprise-class infrastructure or the desire to build it.
 </div>
 
 <div markdown="1" class="section">
-## Preferred Technologies
+## Preferred Approaches
+***Practices***: SRE, SLOs/SLIs, Error Budgets, Incident Response, On-Call, GitOps, Infrastructure-as-Code, CI/CD, Service Mesh, Multi-cloud, Capacity Planning, Cost Optimization  
 ***Clustering System***: Kubernetes, Helm, ClusterAPI, Istio, Argo, Vault, & other CNCF technologies  
 ***Agentic Development***: Claude Code, Letta Code, OpenCode  
 ***Development Languages***: Golang, Python, Rust, Ruby, Bash, Javascript  
 ***Hosted Services***: Amazon Web Services (AWS), Google Cloud (GCP), Azure, Github  
 ***Observability***: Prometheus, Grafana, Loki, Alertmanager, Datadog, PagerDuty  
 ***Operating System***: Linux (Ubuntu/Debian and Redhat/CentOS families)  
-***Other***: Terraform, Docker, Git, Elasticsearch, PostgreSQL, NodeJS
+***Other***: Terraform, Docker, Git, Elasticsearch, PostgreSQL
 </div>
 
 <div markdown="1" class="section">
@@ -99,5 +100,5 @@ Long-running independent consultancy on system architecture and developer infras
 
 ***Software Development:*** Primary focus in system automation, including customization and extension of many popular open-source packages. Strong skills in functional and object-oriented programming across many diverse languages. Comfortable with most layers of common development stacks, with a preference for deep system integration. Heavy emphasis on test-driven design and other agile development practices.
 
-***Reliability Engineering:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Strong focus on SLOs and other SRE / observability practices, including educating other teams in their adoption. Heavy emphasis on repeatable infrastructure and other agile architecture practices. Strong preferences for low cost, open source, and inter-operable solutions.
+***Reliability Engineering:*** Server administration and user technical support across all major platforms, in a wide range of software domains. Capable of end-to-end system implementation, including requirements gathering, architecture design, server provisioning and build, software development, product launch, and support infrastructure. Strong focus on SLOs and other SRE / observability practices, including educating other teams in their adoption. Heavy emphasis on repeatable infrastructure and other agile architecture practices. Strong preferences for low cost, open source, and inter-operable solutions. Practical experience with incident response, post-incident reviews, on-call rotation design, multi-cloud disaster recovery, and capacity planning at scale.
 </div>
